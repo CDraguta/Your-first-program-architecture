@@ -1,0 +1,13 @@
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.exe
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.deps.json
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.runtimeconfig.json
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.runtimeconfig.dev.json
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.dll
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\bin\Debug\netcoreapp3.1\Your first program architecture.pdb
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.csproj.AssemblyReference.cache
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.AssemblyInfoInputs.cache
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.AssemblyInfo.cs
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.csproj.CoreCompileInputs.cache
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.dll
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.pdb
+C:\Users\draguta.corodi\source\repos\Your first program architecture\Your first program architecture\obj\Debug\netcoreapp3.1\Your first program architecture.genruntimeconfig.cache
